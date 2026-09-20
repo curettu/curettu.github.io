@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"target": "ES2020",
+		"module": "ES2020",
+		"moduleResolution": "Bundler",
+		"strict": true,
+		"skipLibCheck": true
+	},
+	"include": ["main.ts", "gh_api/**/*.ts", "Main_Page/src/**/*.ts", "About/src/**/*.ts"]
+}
