@@ -1,4 +1,4 @@
-export const githubUsername = "curettu";
+export const githubUsername = "rakhiimbekov";
 const githubApi = "https://api.github.com";
 export async function getGithubProfile() {
     const response = await fetch(`${githubApi}/users/${githubUsername}`);
