@@ -1,4 +1,4 @@
-export const githubUsername = "curettu";
+export const githubUsername = "rakhiimbekov";
 const githubApi = "https://api.github.com";
 
 export type GithubUser = { login: string; name: string | null; avatar_url: string; followers: number; following: number; public_repos: number };
